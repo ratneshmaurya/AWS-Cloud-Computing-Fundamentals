@@ -1,7 +1,7 @@
 # Cloud Computing Fundamentals
 
-> **Course by in28Minutes Official**
-> **Enhanced with my personal notes, explanations, and memory tricks to make the concepts easier to understand and remember. I hope these additions help you learn more effectively! 🚀**
+> * **Course by in28Minutes Official**
+> * **Enhanced with my personal notes, explanations, and memory tricks to make the concepts easier to understand and remember. I hope these additions help you learn more effectively! 🚀**
 
 ## 📖 About This Course
 
